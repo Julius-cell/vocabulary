@@ -24,11 +24,11 @@ jobs:
           node-version: 16
 
       # This step will run changeset version, setting the step output to if there were changesets found
-      - name: Version command
+      - name: Install dependencies
         id: version
         run: |
           npm install
-          echo "{changes}={npx changeset version | grep -q 'No unreleased changesets found' && echo 'false' || echo 'true'}" >> $GITHUB_OUTPUT
+          echo "{changes}={$(npx changeset version | grep -w 'No unreleased changesets found' && echo 'false' || echo 'true')}" >> $GITHUB_OUTPUT
       
       - name: Check changes output
         run: echo "${{steps.version.outputs.changes}}"
