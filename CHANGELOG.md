@@ -1,5 +1,11 @@
 # vocabulary
 
+## 3.0.0
+
+### Major Changes
+
+- testiiing
+
 ## 2.0.0
 
 ### Major Changes
