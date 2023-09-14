@@ -1,5 +1,11 @@
 # vocabulary
 
+## 6.0.0
+
+### Major Changes
+
+- after changing name
+
 ## 5.0.0
 
 ### Major Changes
