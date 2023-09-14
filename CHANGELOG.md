@@ -1,5 +1,11 @@
 # vocabulary
 
+## 6.2.0
+
+### Minor Changes
+
+- after clean local cache
+
 ## 6.1.0
 
 ### Minor Changes
