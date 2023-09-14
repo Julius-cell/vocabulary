@@ -1,5 +1,11 @@
 # vocabulary
 
+## 6.4.0
+
+### Minor Changes
+
+- after not requiring 2fa for write
+
 ## 6.3.0
 
 ### Minor Changes
