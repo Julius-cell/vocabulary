@@ -1,5 +1,11 @@
 # vocabulary
 
+## 5.0.0
+
+### Major Changes
+
+- without private
+
 ## 4.0.0
 
 ### Major Changes
