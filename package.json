@@ -1,5 +1,5 @@
 {
-  "name": "@julius-cell/vocabulary",
+  "name": "julius-cell-vocabulary",
   "version": "6.0.0",
   "type": "module",
   "publishConfig": {
