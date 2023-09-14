@@ -1,5 +1,11 @@
 # vocabulary
 
+## 6.3.0
+
+### Minor Changes
+
+- test publish remote
+
 ## 6.2.0
 
 ### Minor Changes
