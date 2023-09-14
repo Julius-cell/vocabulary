@@ -1,5 +1,11 @@
 # vocabulary
 
+## 6.5.0
+
+### Minor Changes
+
+- test with updated pipe
+
 ## 6.4.0
 
 ### Minor Changes
