@@ -2,12 +2,15 @@
   "name": "vocabulary",
   "version": "5.0.0",
   "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "publish-packages": "npm run build && changeset publish --access public"
+    "publish-packages": "npm run build && changeset publish"
   },
   "dependencies": {
     "@changesets/cli": "^2.26.2",
