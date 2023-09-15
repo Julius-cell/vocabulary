@@ -1,5 +1,11 @@
 # vocabulary
 
+## 6.7.0
+
+### Minor Changes
+
+- e1945b5: test finañl
+
 ## 6.6.0
 
 ### Minor Changes
