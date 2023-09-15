@@ -1,5 +1,11 @@
 # vocabulary
 
+## 6.6.0
+
+### Minor Changes
+
+- 14f78ad: add minor to test release workflow
+
 ## 6.5.0
 
 ### Minor Changes
